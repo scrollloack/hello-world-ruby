@@ -24,5 +24,5 @@ Things you may want to cover:
 * ...
 
 `
-    Hello World using Ruby on Rails by rchi
+    Hello World using Ruby on Rails by rchi and signed by rchi
 `
