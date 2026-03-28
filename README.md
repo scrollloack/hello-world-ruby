@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+`
+    Hello World using Ruby on Rails by rchi
+`
